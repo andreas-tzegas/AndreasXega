@@ -20,9 +20,8 @@ I'm a 21-year-old aspiring developer passionate about technology and its applica
 
 Here are some of my notable projects:
 
-1. [Project Name 1](link-to-project-1): Brief description of project 1.
-2. [Project Name 2](link-to-project-2): Brief description of project 2.
-3. [Project Name 3](link-to-project-3): Brief description of project 3.
+1. [Project 1](link-to-project-1): project 1.
+
 
 Feel free to explore my repositories to see more of my work!
 
