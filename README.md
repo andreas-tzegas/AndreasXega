@@ -6,7 +6,7 @@ I'm a 21-year-old aspiring developer passionate about technology and its applica
 
 - 🔭 I’m currently exploring various technologies and frameworks to expand my skills.
 - 🌱 I’m constantly learning and experimenting with new concepts.
-- 💻 I enjoy building web and mobile applications that make a difference.
+- 💻 I enjoy building web and mobile applications.
 - 🎓 Studying Web development at CCI formation.
 
 ## Tech Stack
