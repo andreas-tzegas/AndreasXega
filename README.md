@@ -1,34 +1,30 @@
-# Hi there, I'm Andreas! 👋
+# Bonjour, je m'appelle Andreas
 
-I'm a 21-year-old aspiring developer passionate about technology and its applications. Welcome to my GitHub profile!
+J’ai 21 ans et je suis un jeune développeur passionné par les technologies et leurs applications. Bienvenue sur mon profil GitHub.
 
-## About Me
+## À propos de moi
 
-- 🔭 I’m currently exploring various technologies and frameworks to expand my skills.
-- 🌱 I’m constantly learning and experimenting with new concepts.
-- 💻 I enjoy building web and mobile applications.
-- 🎓 Studying Web development at CCI formation.
+- J’explore différents langages et frameworks pour élargir mes compétences.  
+- J’apprends en continu et j’aime tester de nouvelles idées.  
+- Je développe des applications web et mobiles.  
+- Actuellement étudiant en développement web au CCI Formation.  
+- Langues parlées : anglais, français, grec, albanais, espagnol.  
 
-## Tech Stack
+## Compétences techniques
 
-- Languages: PHP, JavaScript, HTML, CSS
-- Frameworks/Libraries: Vue.js, Symfony, Bootstrap
-- Databases: SQL
-- Tools: Git, VS Code
+- **Langages** : PHP, JavaScript, HTML, CSS  
+- **Frameworks / Librairies** : Vue.js, Symfony, Bootstrap  
+- **Bases de données** : SQL  
+- **Outils** : Git, VS Code  
 
-## Projects
+## Projets
 
-Here are some of my notable projects:
+Voici quelques-uns de mes projets :  
 
-1. [Project 1](link-to-project-1): project 1.
+1. [Project 1](link-to-project-1) : description du projet.  
 
+D’autres projets sont disponibles dans mes dépôts GitHub.  
 
-Feel free to explore my repositories to see more of my work!
+## Contact
 
-## Get in Touch
-
-- 📫 Email: [AndreasXega@proton.me](mailto:AndreasXega@proton.me)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/andreas-xega)
-- Twitter: [Twitter Profile](https://twitter.com/AndreasXega)
-
-Don't hesitate to contact me! 👨‍💻
+- Email : [AndreasXega@proton.me](mailto:AndreasXega@proton.me)  
